@@ -8,3 +8,15 @@ These are highlight files for Nano Text Editor. They aren't the prettiest becaus
 
 Mitch Bumgarner
 11/12/15
+
+---
+
+Updated 16/02/17
+
+Added
+* Param
+* throw
+* object types like [string] or [xml]
+* A whole load based on the allowed verbs for powershell
+
+Graeme Evans
